@@ -2,8 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#C3BEBE</color>
-    <color name="pink">#04F4E1</color>
-    <color name="grey">#FFF4DFF1</color>
-    <color name="transparent"></color>
-    <color name="aquagreen">#FF04F4E1</color>
+    <color name="pink">#DAE683F8</color>
+    <color name="grey">#A8E3E0E2</color>
+    <color name="transparent">#00F4DFF1</color>
+    <color name="blue">#083BF1</color>
+    <color name="aquagreen">#12E193</color>
 </resources>
